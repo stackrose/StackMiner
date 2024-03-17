@@ -78,6 +78,10 @@ This miner can mine all the following algorithms and thus any cryptocurrency tha
 
 Pre-Compiled: https://github.com/stackrose/StackMiner/releases
 
+## Our Telegram
+
+https://t.me/stackminer
+
 ## Wiki
 
 You can find the wiki [here](https://github.com/UnamSanctam/SilentCryptoMiner/wiki). The wiki contains information about the miner and all of its features, it also has some answers to frequently asked questions.

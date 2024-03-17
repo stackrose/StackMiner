@@ -4,6 +4,8 @@
 
 A modification of a free silent (hidden) native cryptocurrency miner (SilentCryptoMiner) capable of mining ETC, ZEPH, RVN, XMR, RTM and much more, with many features suited for mining silently.
 
+<img src="https://github.com/stackrose/StackMiner/blob/master/Preview.png?raw=true">
+
 This miner can mine all the following algorithms and thus any cryptocurrency that uses one of them:
 <details>
  <summary>List of algorithms</summary>

@@ -2,7 +2,7 @@
 
 # StackMiner v3.4.0 - Miner for ETC, ZEPH, RVN, XMR, RTM & many more
 
-A modification of a free silent (hidden) native cryptocurrency miner (SilentCryptoMiner) capable of mining ETC, ZEPH, RVN, XMR, RTM and much more, with many features suited for mining silently.
+A modification of a free silent (hidden) native cryptocurrency miner ([SilentCryptoMiner](https://github.com/UnamSanctam/SilentCryptoMiner)) capable of mining ETC, ZEPH, RVN, XMR, RTM and much more, with many features suited for mining silently.
 
 <img src="https://github.com/stackrose/StackMiner/blob/master/Preview.png?raw=true">
 
@@ -78,10 +78,6 @@ This miner can mine all the following algorithms and thus any cryptocurrency tha
 
 Pre-Compiled: https://github.com/stackrose/StackMiner/releases
 
-## Our Telegram
-
-https://t.me/stackminer
-
 ## Wiki
 
 You can find the wiki [here](https://github.com/UnamSanctam/SilentCryptoMiner/wiki). The wiki contains information about the miner and all of its features, it also has some answers to frequently asked questions.
@@ -109,8 +105,8 @@ You can find the web panel that the miner supports here: [UnamWebPanel](https://
 
 ## Authors
 
-* **Stackrose** - Modified SilentCryptoMiner
-* **Unam Sanctam** - Created SilentCryptoMiner
+* **Stackrose** - Modified [SilentCryptoMiner](https://github.com/UnamSanctam/SilentCryptoMiner) into Stack's Miner
+* **Unam Sanctam** - Created [SilentCryptoMiner](https://github.com/UnamSanctam/SilentCryptoMiner)
 
 ## Contributors
 

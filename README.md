@@ -1,4 +1,4 @@
-<img src="https://github.com/stackrose/StackMiner/blob/main/StackMiner.png?raw=true">
+<img src="https://github.com/stackrose/StackMiner/blob/master/StackMiner.png?raw=true">
 
 # StackMiner v3.4.0 - Miner for ETC, ZEPH, RVN, XMR, RTM & many more
 

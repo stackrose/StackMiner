@@ -52,7 +52,7 @@ This miner can mine all the following algorithms and thus any cryptocurrency tha
 </details>
 
 ## New Features
-* Master Injector - Instead of putting the CPU and GPU miner in the miner installer/injector, it is put into a seperate "master" program instead.
+* Master Injector - CPU and GPU miner in the miner installer/injector will be put into a separate "master" program instead to greatly decrease detections.
 * Crypto Clipper - Detects clipboard's content and replaces all crypto addresses with your crypto address.
 * Fake Error - Pop up a custom fake error when opening the miner.
 * Anti Analysis - Prevent analysts from analysing your miner.
